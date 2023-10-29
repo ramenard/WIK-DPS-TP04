@@ -6,7 +6,7 @@ A project realized with Docker
 
 You need to clone this repository:
 ```sh
-git clone https://github.com/ramenard/WIK-DPS-TP02.git
+git clone https://github.com/ramenard/WIK-DPS-TP04.git
 ```
 
 ## Launching
