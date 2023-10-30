@@ -1,7 +1,5 @@
 # TP4 devops
 
-A project realized with Docker
-
 ## Installation
 
 You need to clone this repository:
